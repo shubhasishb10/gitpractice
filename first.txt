@@ -1,3 +1,5 @@
 First Line | First File -> Added in second branch
 
+Second line -> Second Branch
+
 Second Line | First File

@@ -1,5 +1,7 @@
 First Line | First File -> Added in second branch
 
 Third line -> master branch
-
 Second Line | First File --> Added to master branch
+Second line -> Second Branch
+Second Line | First File
+

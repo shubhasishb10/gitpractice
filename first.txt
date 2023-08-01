@@ -5,3 +5,5 @@ Second Line | First File --> Added to master branch
 Second line -> Second Branch
 Second Line | First File
 
+Commit from another branch
+

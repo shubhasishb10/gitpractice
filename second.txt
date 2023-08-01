@@ -1,1 +1,2 @@
 Added second file to the repository
+Second line added
